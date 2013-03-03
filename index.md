@@ -1,46 +1,40 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Welcome to Neurovision
+tagline: <br>Generative Video Processing in the Browser
+group: main
 ---
+
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+## Workshops
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+### Urban Chromatography -- Mediacities 2013
 
-## Update Author Attributes
+**Generative Video Processing with Neural Networks**
 
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
+[![image](workshops/mediacities-teaser.jpg)](workshops/mediacities.html)
 
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
+First Neurovision Workshop. May 5th 2013, Buffalo NY.
 
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
 
-    $ rm -rf _posts/core-samples
-
-Here's a sample "posts list".
+## Neurovision Blog
 
 <ul class="posts">
-  {% for post in site.posts %}
+  {% for post in site.posts limit:5 %}
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
 
-## To-Do
+{% if site.posts.size > 5 %}
+See the <a href="./archive.html">Blog Archive</a> for older posts.
+{% endif %}
 
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
+## Authors and Funding
 
+The Neurovision Sandbox was created by [Martin Schneider](authors/Martin_Schneider.html) in collaboration with [Ursula Damm](authors/Ursula_Damm.html).  
+Development was partially funded by Mediacities 2013.
+
+We are planning to turn the Neurovision Sandbox into a free and open-source platform in late 2013.  
+You can get early access by taking part in one of our workshops.
 
