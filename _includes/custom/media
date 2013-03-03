@@ -1,0 +1,22 @@
+{% if page.youtube %}
+	<div class="video-container">
+		<iframe 
+			src="http://www.youtube.com/embed/{{ page.youtube }}" 
+			frameborder="0"
+			allowFullScreen
+		>
+		</iframe>
+	</div>
+{% endif %}
+
+{% if page.vimeo %}
+	<div class="video-container">
+		<iframe 
+			src="http://player.vimeo.com/video/{{ page.vimeo }}?title=0&byline=0&portrait=0"
+			frameborder="0"
+			allowFullScreen
+		>
+		</iframe>
+	</div>
+{% endif %}
+

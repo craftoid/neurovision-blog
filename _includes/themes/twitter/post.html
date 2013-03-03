@@ -2,6 +2,7 @@
   <h1>{{ page.title }} {% if page.tagline %}<small>{{page.tagline}}</small>{% endif %}</h1>
 </div>
 
+
 <div class="row-fluid post-full">
   <div class="span12">
     <div class="date">
@@ -10,6 +11,9 @@
         {% if page.author %} — by {{ page.author }}{% endif %}
       </span>
     </div>
+
+	{% include custom/media %}
+
     <div class="content">
       {{ content }}
     </div>

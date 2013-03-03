@@ -69,3 +69,13 @@
     vertical-align: top;
     white-space:nowrap;
 }
+
+/* 16:9 videos */
+.video-container iframe {
+	width: 700px;
+	height: 394px;
+}
+
+.video-container {
+	margin-bottom: 20px;
+}
