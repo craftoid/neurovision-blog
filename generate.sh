@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # activate ruby with jekyll
-$HOME/.rvm/scripts/rvm
-rvm gemset use jekyll
+. $HOME/.rvm/scripts/rvm
+rvm use @jekyll
 
 # generate website so we can deploy it to the server
 jekyll --no-auto --safe
