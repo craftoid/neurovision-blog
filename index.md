@@ -17,6 +17,15 @@ group: main
 
 First Neurovision Workshop. May 5th 2013, Buffalo NY.
 
+## Projects
+
+### Transits
+The NeuroVision Sandbox was created during the Development of Transits, 
+a generative video artwork by Ursula Damm and Martin Schneider.
+
+### Chromatographic Ballads
+This Installation will allow visitors to direct the "Neural Chromatographic Orchestra", 
+using an EPOC Emotiv Brain device.
 
 ## Neurovision Blog
 
