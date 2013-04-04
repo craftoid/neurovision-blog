@@ -26,6 +26,23 @@ With NeuroVision we introduce a sandbox for GPU-based video processing.
 We have used this sandbox in our own work, including *Transits*[^1] and the *Neural Chromatographic Orchestra*[^2] and would now like to share it and make it available as a tool for artists that want to use live-video-processing in their work.
 
 
+## Sign Up
+
+**You can now sign up for the workshop!**
+
+Once you have submitted your Mediacities [Registration][10],  
+you can visit the **[Sign Up Page](http://mediacities.net/site/workshop-signup/)**
+to register for this workshop.  
+You better be quick, since the size of the workshop is limited.
+
+
+## Registration Fee
+
+The workshop is included in the conference registration.  
+You can get a day pass for 50 USD.  
+Check out the [Registration Page][10] for more info.
+
+
 ## Topics
 
 | Video City    | Computational Chromatography|OpenGL Shading Language| Neural Networks                  |
@@ -92,3 +109,5 @@ Hands-on coding sessions will be held in small groups with assistants to help yo
 
 [8]: http://ursuladamm.de/transits-2012/
 [9]: http://ursuladamm.de/nco-neural-chromatographic-orchestra-2012
+
+[10]: http://mediacities.net/site/registration/
