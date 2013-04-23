@@ -67,7 +67,7 @@
 /* nicer table headers */
 .table thead th {
     vertical-align: top;
-    white-space:nowrap;
+    /* white-space:nowrap; */
 }
 
 /* 16:9 videos */
