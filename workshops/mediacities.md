@@ -10,11 +10,12 @@ group: main
 
 ![Flyer](mediacities-teaser.jpg)
 
+
 ## Abstract
 
-**NeuroVision** is a web-based sandbox for Generative Video Processing in the browser. 
+**NeuroVision** is a web-based sandbox for Generative Video Processing in the browser.  
 It is used to transform live-video from mobile devices and webcams, based on colors, flows and rhythms.  
-We will learn how to process video-feeds and web-videos with Neural Networks and use NeuroVision as an artistic tool for our own video-recordings.
+We will learn how to process video feeds and web videos with Neural Networks and use NeuroVision as an artistic tool for our own video-recordings.
 
 
 ## The Neurovison Sandbox
@@ -39,17 +40,56 @@ You better be quick, since the size of the workshop is limited.
 ## Registration Fee
 
 The workshop is included in the conference registration.  
-You can get a day pass for 50 USD.  
+Students can attend the complete conference for 50 USD.  
+Regular Visitors can obtain day passes for 50 USD per day,
+or attend thecomplete conference for 150 USD.
+ 
 Check out the [Registration Page][10] for more info.
 
 
 ## Topics
 
-| Video City    | Computational Chromatography|OpenGL Shading Language| Neural Networks                  |
-|---------------|-----------------------------|-----------------------|----------------------------------|
-| Urban Colors  | Coding Colors               | Introduction to GLSL  | Introduction to NN               |
-| Urban Motion  | Optical Flow                | Video Filters         | The Neuron as Computational Unit |
-| Urban Rhythms | Color Attraction            | Video Transformations | Layers, Memory and Feedback      |
+| Neural Networks                  | Computational Chromatography| OpenGL Shading Language | Video City    |
+|----------------------------------|-----------------------------|-------------------------|---------------|
+| Introduction to NN               | Coding Colors               | Introduction to GLSL    | Urban Colors  |
+| The Neuron as Computational Unit | Optical Flow                | Video Filters           | Urban Motion  |
+| Layers, Memory and Feedback      | Color Attraction            | Video Transformations   | Urban Rhythms | 
+
+
+## Workshop Details
+
+The workshop is limited to 30 participants.
+
+It has been spread over Friday and Saturday, to avoid collisions with the keynote talks. 
+
+### Friday
+
+| Time          | Topic                            |
+|---------------|----------------------------------|
+| 10:00 – 11:00 | Intro to the Neurovision Sandbox |
+| 11:00 – 12:00 | Intro to Neural Networks         |
+|  1:45 – 03:00 | Intro to Chromatography          |
+|  3:15 – 04:15 | Hands-On Coding - Part I         |
+|  4:15 – 05:30 | Hands-On Coding - Part II        |
+
+### Saturday 
+
+| Time          | Topic                            |
+|---------------|----------------------------------|
+|  1:15 – 3:30  | Field Trip with Ursula Damm      |
+|  5:00 – 6:00  | Hands-On Coding - Part III       |
+
+### Sunday 
+
+| Time          | Topic                            |
+|---------------|----------------------------------|
+|   3:45 – 4:30 | Workshop Presentation            |
+
+
+Martin Schneider will lead you through the framework and Ursula Damm will take you on a field trip.  
+Hands-on coding sessions will be held in small groups with assistants to help you.  
+On Sunday all workshop participants can show their results
+in a Pecha Kucha style presentation.
 
 
 ## Skill-Level
@@ -76,22 +116,6 @@ We highly recommend a laptop with a built-in webcam,  or a webcam that can be at
 As part of the workshop, we will go on a field trip, where we will record our own footage of urban motion.
 If you have a mobile device with a video camera, bring it along!  
 
-
-## Workshop Details
-
-This workshop is limited to 30 participants.  
-The total duration of the workshop is 8:30 hours including a 30 minutes break. 
-
-| Time          | Lesson                |
-|---------------|-----------------------|
-| 10:00 – 12:00 | Introduction          |
-| 12:00 – 12:30 | 30 minutes break      |
-| 12:30 – 14:30 | Hands-on coding       |
-| 14:30 – 16:30 | Field trip            |
-| 16:30 – 18:30 | Hands-on coding       |
-
-Martin Schneider will lead you through the framework and Ursula Damm will take you on field trip.  
-Hands-on coding sessions will be held in small groups with assistants to help you.
 
 
 [^1]: [Transits (2012)][8]
